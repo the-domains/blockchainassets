@@ -1,7 +1,7 @@
 name: BlockchainAssets
 favicon: null
-layout_spectrum: 0.2606763655785471
-typography_spectrum: 0.8350064912810922
+layout_spectrum: 0.83936
+typography_spectrum: 0.49894
 title: Home
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.9676377174910158
-  lightness: 0.7087412413675338
-  saturation: 0.8526428434997797
-  rhythmicContrast: 0.12497990927658975
+    - '#0d57bb'
+    - '#fb8424'
+    - '#b93a14'
+    - '#3d0503'
+    - '#fcc42d'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
