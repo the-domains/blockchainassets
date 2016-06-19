@@ -2,6 +2,7 @@ name: BlockchainAssets
 favicon: null
 layout_spectrum: 0.2606763655785471
 typography_spectrum: 0.8350064912810922
+title: Home
 cta:
   domain: null
   bucket: null
