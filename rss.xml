@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Home]]></title>
-        <description><![CDATA[Home]]></description>
+        <title><![CDATA[About the Blockchain]]></title>
+        <description><![CDATA[About the Blockchain]]></description>
         <link>https://thegrid.ai/blockchainassets/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 16:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2016 16:43:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blockchainassets/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e07b4f1c-ee4e-4524-ba1c-900a9f450126.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/blockchainassets/009013f7-ae67-44e7-8c3c-cf7e797d3877/index.html</link>
+            <guid isPermaLink="false">009013f7-ae67-44e7-8c3c-cf7e797d3877</guid>
+            <pubDate>Sun, 19 Jun 2016 16:43:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ ]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/243496a4-8eac-4896-a56c-d7a9bee5ff87.jpg">]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/blockchainassets/bitcoin-is-back-fans-and-holders-of-the-crypto-currency-w/index.html</link>
             <guid isPermaLink="false">5ddfdda8-d6b9-4021-879a-9ffd7dfb3cb0</guid>
             <pubDate>Sun, 19 Jun 2016 16:23:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e07b4f1c-ee4e-4524-ba1c-900a9f450126.png">]]></description>
-            <link>https://thegrid.ai/blockchainassets/009013f7-ae67-44e7-8c3c-cf7e797d3877/index.html</link>
-            <guid isPermaLink="false">009013f7-ae67-44e7-8c3c-cf7e797d3877</guid>
-            <pubDate>Sun, 19 Jun 2016 16:09:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
