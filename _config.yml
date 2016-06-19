@@ -1,0 +1,28 @@
+name: BlockchainAssets
+favicon: null
+layout_spectrum: 0.2606763655785471
+typography_spectrum: 0.8350064912810922
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9676377174910158
+  lightness: 0.7087412413675338
+  saturation: 0.8526428434997797
+  rhythmicContrast: 0.12497990927658975
+purpose: []
