@@ -8,8 +8,8 @@ description: >-
   Barclays has tested a way to trade derivatives using so-called "smart
   contracts" and blockchain-like technology being developed by a consortium of
   the world's leading banks, the British lender said on Tuesday.
-datePublished: '2016-06-19T18:30:53.854Z'
-dateModified: '2016-06-19T18:29:59.608Z'
+datePublished: '2016-06-19T18:36:48.702Z'
+dateModified: '2016-06-19T18:31:00.112Z'
 title: ''
 author: []
 sourcePath: >-
