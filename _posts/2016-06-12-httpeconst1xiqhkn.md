@@ -10,8 +10,8 @@ description: >-
   $550—a level it last reached in August 2014. They should contain their
   elation: the factors driving the rally are not unalloyed positives, and the
   competition is doing even better (see chart).
-datePublished: '2016-06-19T16:23:42.356Z'
-dateModified: '2016-06-19T15:35:19.691Z'
+datePublished: '2016-06-19T17:10:39.448Z'
+dateModified: '2016-06-19T17:10:21.204Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-12-httpeconst1xiqhkn.md
@@ -33,3 +33,5 @@ China has also become the global hub for bitcoin mining, the process by which he
 All this virtual mining may be playing a part in bitcoin's rally. Operators of bitcoin mines get 25 bitcoin (about $13,500) for every "block" of transactions they process. But this payment is set to halve on or around July 10th. That is because the maximum number of bitcoin that can ever be produced is limited to 21m. As the number in circulation gets closer to the limit, the rate at which miners can produce them automatically declines, according to a pre-ordained formula. That makes life harder for miners: on May 29th, one of the biggest, KnCMiner, declared bankruptcy, blaming the coming change. The reduced issuance of new bitcoin should also push up the price, an outcome the current rally seems to be anticipating.
 
 Bitcoin's resurgence has come just as champions of crypto-currencies have started to gravitate to another system, Ethereum, whose digital tokens are called "ether". This has both political and technical causes. Bitcoin's developers have yet to agree on how to increase the capacity of their network, which can only process seven transactions per second. And Ethereum makes it easier for users to create self-executing "smart contracts", something of a fad in the world of crypto-currencies. Last week Coinbase, one of the biggest bitcoin exchanges, declared bitcoin "stagnant" and said it would start to trade ether too.
+
+Source: The Economist
