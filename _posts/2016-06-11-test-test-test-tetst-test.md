@@ -14,8 +14,8 @@ description: >-
   automatically upon joining the Bitcoin network. The blockchain has complete
   information about the addresses and their balances right from the genesis
   block to the most recently completed block.
-datePublished: '2016-06-19T17:18:25.898Z'
-dateModified: '2016-06-19T17:13:10.282Z'
+datePublished: '2016-06-19T18:37:08.600Z'
+dateModified: '2016-06-19T17:18:30.841Z'
 title: What is a 'Blockchain'
 author: []
 sourcePath: _posts/2016-06-11-test-test-test-tetst-test.md
